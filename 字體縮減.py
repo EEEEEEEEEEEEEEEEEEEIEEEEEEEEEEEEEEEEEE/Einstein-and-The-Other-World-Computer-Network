@@ -1,6 +1,6 @@
 import os
 
-a=['試寫.html']
+a=['index.html']
 
 s=''
 for i in a:
