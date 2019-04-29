@@ -16,6 +16,11 @@
 
 ## 在线阅读
 
+[https://rimochan.github.io/Einstein-and-The-Other-World-Computer-Network/](https://rimochan.github.io/Einstein-and-The-Other-World-Computer-Network/)
+
+[![test.jpg](test.jpg)](https://rimochan.github.io/Einstein-and-The-Other-World-Computer-Network/)
+
+
 ## 技术支持
 
 [Librian: 簡明強大的 Galgame | Visual Novel 引擎](https://github.com/RimoChan/Librian)
