@@ -1,0 +1,113 @@
+@font-face {
+    font-family: 思源;
+    src: url('思源縮減.ttf');
+}
+
+html {
+    font-size: 1.3vw;
+    font-family: 思源;
+}
+
+small {
+    font-size: 85%;
+}
+
+body {
+    margin: 4vw 16vw;
+    background: url('紙背景花紋.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body:before{
+    display: block;
+    font-size: 200%;
+    padding: 1.5vw;
+    content: '爱因斯坦与异世界计算机网络'; 
+    text-align: center;
+}
+body:after{
+    display: block;
+    font-size: 200%;
+    padding: 1.5vw;
+    content: 'To be continue……'; 
+    text-align: right;
+    font-family: fantasy;
+}
+
+p.旁白:before {
+    content: '　　';
+}
+
+p>* {
+    vertical-align: top;
+}
+
+.旁白 {
+    color: #000;
+}
+
+.語 {
+    color: rgba(0, 0, 80, 1);
+    white-space: pre;
+    display: inline-block;
+    padding-left: 6px;
+    margin-left: 6px;
+    border-left: 3px solid rgba(0, 0, 0, 0.4);
+}
+
+.躍點 {
+    font-size: 80%;
+    color: rgba(0, 0, 111, 0.5);
+}
+
+.顏 {
+    color: rgba(0, 0, 0, 0.5);
+    padding-left: 6px;
+}
+
+.註釋 {
+    font-size: 80%;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.人物操作 {
+    font-size: 80%;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.函數調用 {
+    font-size: 80%;
+    width: 80%;
+    padding: 0.6rem 1rem;
+    border-radius: 2px;
+    background-color: rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    white-space: pre;
+    
+    display:none;
+}
+
+.引用 {
+    font-size: 95%;
+    color: #030;
+}
+
+.標點 {
+    color: #300;
+}
+
+.代, .插入 {
+    background: url('./紙背景插入.jpg');
+    background-size: cover;
+    background-position: fixed;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    border-radius: 2px;
+    font-family: 方正中雅宋_GBK;
+    padding: 4px;
+}
+
+.插入 {
+    text-align: center;
+    font-size: 120%;
+}
