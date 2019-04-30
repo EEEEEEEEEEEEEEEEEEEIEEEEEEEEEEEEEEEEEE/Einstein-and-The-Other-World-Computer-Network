@@ -4,7 +4,7 @@
 }
 
 html {
-    font-size: 1.3vw;
+    font-size: 23px;
     font-family: 思源;
 }
 
@@ -13,7 +13,7 @@ small {
 }
 
 body {
-    margin: 4vw 16vw;
+    margin: 40px calc(16vw - 64px);
     background: url('紙背景花紋.jpg');
     background-size: cover;
     background-attachment: fixed;
@@ -22,14 +22,15 @@ body {
 body:before{
     display: block;
     font-size: 200%;
-    padding: 1.5vw;
+    padding: 40px;
     content: '爱因斯坦与异世界计算机网络'; 
     text-align: center;
 }
+
 body:after{
     display: block;
     font-size: 200%;
-    padding: 1.5vw;
+    padding: 40px;
     content: 'To be continue……'; 
     text-align: right;
     font-family: fantasy;
@@ -49,7 +50,7 @@ p>* {
 
 .語 {
     color: rgba(0, 0, 80, 1);
-    white-space: pre;
+    white-space: pre-wrap;
     display: inline-block;
     padding-left: 6px;
     margin-left: 6px;
@@ -103,8 +104,7 @@ p>* {
     background-position: fixed;
     border: 1px solid rgba(0, 0, 0, 0.4);
     border-radius: 2px;
-    font-family: 方正中雅宋_GBK;
-    padding: 4px;
+    padding: 1px 6px 3px 6px;
 }
 
 .插入 {
