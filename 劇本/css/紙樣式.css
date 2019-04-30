@@ -15,7 +15,8 @@ small {
 
 body {
     margin: 40px calc(16vw - 64px);
-    background: url('紙背景花紋.jpg');
+    background-image: url('紙背景花紋.jpg');
+    background-color: #dec6a1;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -100,7 +101,8 @@ p>* {
 }
 
 .代, .插入 {
-    background: url('./紙背景插入.jpg');
+    background-image: url('./紙背景插入.jpg');
+    background-color: #af9e7b;
     background-size: cover;
     background-position: fixed;
     border: 1px solid rgba(0, 0, 0, 0.4);
