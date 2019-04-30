@@ -4,8 +4,9 @@
 }
 
 html {
-    font-size: 23px;
+    font-size: 24px;
     font-family: 思源;
+    line-height: 1.6;
 }
 
 small {
@@ -104,7 +105,7 @@ p>* {
     background-position: fixed;
     border: 1px solid rgba(0, 0, 0, 0.4);
     border-radius: 2px;
-    padding: 1px 6px 3px 6px;
+    padding: 0px 6px 3px 6px;
 }
 
 .插入 {
