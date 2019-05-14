@@ -21,12 +21,12 @@ body {
     background-attachment: fixed;
 }
 
-body:before{
+h1{
     display: block;
     font-size: 200%;
     padding: 40px;
-    content: '爱因斯坦与异世界计算机网络'; 
     text-align: center;
+    margin: 0px;
 }
 
 body:after{
