@@ -28,7 +28,7 @@
 
 ![](https://creativecommons.org/images/deed/cc_icon_black_x2.png)
 ![](https://creativecommons.org/images/deed/attribution_icon_black_x2.png)
-![](https://creativecommons.org/images/deed/nc_icon_black_x2.png)
+![](https://creativecommons.org/images/deed/nc-jp_blue_2x.png)
 
 <br />本作品采用 [知识共享署名-非商业性使用 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc/4.0/deed.zh) 进行许可。
 
