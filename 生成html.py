@@ -13,6 +13,7 @@ html = f'''
         <meta charset="utf8"/>
         <link rel="stylesheet" href="./劇本/css/紙樣式.css"/>
         <link rel="stylesheet" href="./劇本/css/樣式_人物名.css"/>
+        <title>爱因斯坦与异世界计算机网络</title>
     <head>
     <body>
         <h1>爱因斯坦与异世界计算机网络</h1>
