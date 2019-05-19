@@ -3,25 +3,20 @@
 > 朝圣者，我正在写小说。  
 > 如果你要这样假笑，我会用拳头伺候你。
 
-在GitHub，甚至你还能写小说！  
-这个项目的内容真的就是连载小说，并不是什么软件。
-
-目标是超越[女装项目](https://github.com/komeiji-satori/Dress)，成为GitHub的支配者！
-
-## 故事简介
-
 爱因斯坦垄断了异世界互联网！
 
 勇者被美少女哄骗而加入了反抗组织IIIE！
 
 今天也为了打败爱因斯坦而战斗着！  
 
-异世界解谜喜剧轻小说「爱因斯坦与异世界计算机网络」，大概是这样的！  
+异世界解谜喜剧轻小说「爱因斯坦与异世界计算机网络」，中差评连载中！  
 (为什么这句也有感叹号啊……)
 
-## 在线阅读
+目标是超越[女装项目](https://github.com/komeiji-satori/Dress)，成为GitHub的支配者！
 
-<https://rimochan.github.io/Einstein-and-The-Other-World-Computer-Network/>
+## [点此在线阅读 (GitHub Pages)](https://rimochan.github.io/Einstein-and-The-Other-World-Computer-Network/)
+
+预览: 
 
 [![在线阅读](test.jpg)](https://rimochan.github.io/Einstein-and-The-Other-World-Computer-Network/)
 
